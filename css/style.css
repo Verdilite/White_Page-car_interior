@@ -46,6 +46,7 @@ table {
 /* начало шлако кода */
 body{
 	font-family: 'Inter', sans-serif;
+	overflow-x: hidden;
 }
 
 .full_wrapper{
